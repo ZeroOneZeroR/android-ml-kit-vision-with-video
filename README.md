@@ -1,4 +1,4 @@
-# Android ML Kit Vision demo with Pre Encoded Video
+# Android ML Kit Vision demo with Video
 Google's ML-Kit-Vision demo (android) for pre encoded video. Demos for camera preview and still image are also included. This project is actually extension of Google's own sample. Google's sample link: https://github.com/googlesamples/mlkit/tree/master/android/vision-quickstart
 
 # Motivation
