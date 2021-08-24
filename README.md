@@ -14,3 +14,6 @@ To know more about the app read from [here](https://github.com/googlesamples/mlk
 * Reading pixels from OpenGL-ES context
 * Getting bitmap from TextureView
 * Converting Raw decoder data with renderscript
+
+## Preview
+![](preview1.gif) ![](preview2.gif)
